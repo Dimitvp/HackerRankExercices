@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PlusMinus", "PlusMinus", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus\PlusMinus.csproj", "{2B0D6C48-17FD-47FE-B308-1FA62F1129B8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Staircase", "Staircase", "{8C9BC204-C126-48EC-ACBF-60CE3D8E715D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase\Staircase.csproj", "{6C0738D6-5BCE-4682-9610-4458C04567EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{2B0D6C48-17FD-47FE-B308-1FA62F1129B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B0D6C48-17FD-47FE-B308-1FA62F1129B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B0D6C48-17FD-47FE-B308-1FA62F1129B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0738D6-5BCE-4682-9610-4458C04567EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0738D6-5BCE-4682-9610-4458C04567EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0738D6-5BCE-4682-9610-4458C04567EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0738D6-5BCE-4682-9610-4458C04567EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +58,7 @@ Global
 		{4F6306A2-F7C3-4AC6-97FA-722483FF0FE9} = {2D855A68-88E7-4343-89B5-7B2F6D994E35}
 		{EBD0767E-F718-4850-B030-6D280853BD5D} = {47B75A10-D10D-4F42-AE17-564D8EF4DF0A}
 		{2B0D6C48-17FD-47FE-B308-1FA62F1129B8} = {A2F4AB02-1B14-4B3A-8DC4-F9B520649C73}
+		{6C0738D6-5BCE-4682-9610-4458C04567EC} = {8C9BC204-C126-48EC-ACBF-60CE3D8E715D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0AB379D5-E8E0-4D3F-9F1F-961B58F2AD16}
