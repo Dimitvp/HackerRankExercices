@@ -1,0 +1,13 @@
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\bin\Debug\netcoreapp3.1\Compare.The.Triplets.exe
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\bin\Debug\netcoreapp3.1\Compare.The.Triplets.deps.json
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\bin\Debug\netcoreapp3.1\Compare.The.Triplets.runtimeconfig.json
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\bin\Debug\netcoreapp3.1\Compare.The.Triplets.runtimeconfig.dev.json
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\bin\Debug\netcoreapp3.1\Compare.The.Triplets.dll
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\bin\Debug\netcoreapp3.1\Compare.The.Triplets.pdb
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\obj\Debug\netcoreapp3.1\Compare.The.Triplets.csproj.AssemblyReference.cache
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\obj\Debug\netcoreapp3.1\Compare.The.Triplets.AssemblyInfoInputs.cache
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\obj\Debug\netcoreapp3.1\Compare.The.Triplets.AssemblyInfo.cs
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\obj\Debug\netcoreapp3.1\Compare.The.Triplets.csproj.CoreCompileInputs.cache
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\obj\Debug\netcoreapp3.1\Compare.The.Triplets.dll
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\obj\Debug\netcoreapp3.1\Compare.The.Triplets.pdb
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\CompareTheTriplets\Compare.The.Triplets\obj\Debug\netcoreapp3.1\Compare.The.Triplets.genruntimeconfig.cache
