@@ -30,7 +30,7 @@ namespace AVeryBigSum
 
         public static long AVeryBigSum(List<long> ar)
         {
-
+            return ar.Sum();
         }
 
     }
