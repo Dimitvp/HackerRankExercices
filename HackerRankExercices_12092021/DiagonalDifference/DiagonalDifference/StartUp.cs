@@ -39,12 +39,12 @@ namespace DiagonalDifference
             int leftToRightDiagonal = 0;
             int rightToLeftDiagonal = 0;
             int leftDiagonalPosition = 0;
-            int rightDiagonalPostion = arr.Count;
+            int rightDiagonalPostion = arr.Count - 1;
 
             for (int i = 0; i < arr.Count; i++)
             {
-                leftToRightDiagonal += arr[i].IndexOf(leftDiagonalPosition);
-                rightToLeftDiagonal += arr[i].IndexOf(rightDiagonalPostion);
+                leftToRightDiagonal += arr[i][leftDiagonalPosition];
+                rightToLeftDiagonal += arr[i][rightDiagonalPostion];
 
                 leftDiagonalPosition++;
                 rightDiagonalPostion--;
