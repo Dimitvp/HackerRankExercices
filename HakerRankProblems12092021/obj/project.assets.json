@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Interviews\\Exercices\\HackerRankExercices\\HakerRankProblems12092021\\HakerRankProblems12092021.csproj",
-      "projectName": "HakerRankProblems12092021",
-      "projectPath": "E:\\Interviews\\Exercices\\HackerRankExercices\\HakerRankProblems12092021\\HakerRankProblems12092021.csproj",
+      "projectUniqueName": "E:\\Interviews\\Exercices\\HackerRankExercices\\HakerRankProblems12092021\\CompareTheTriplets.csproj",
+      "projectName": "CompareTheTriplets",
+      "projectPath": "E:\\Interviews\\Exercices\\HackerRankExercices\\HakerRankProblems12092021\\CompareTheTriplets.csproj",
       "packagesPath": "C:\\Users\\Dimit\\.nuget\\packages\\",
       "outputPath": "E:\\Interviews\\Exercices\\HackerRankExercices\\HakerRankProblems12092021\\obj\\",
       "projectStyle": "PackageReference",

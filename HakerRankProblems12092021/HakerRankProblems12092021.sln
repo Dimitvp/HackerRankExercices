@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HakerRankProblems12092021", "HakerRankProblems12092021.csproj", "{6B4DB9F8-FD76-4383-B5C6-5C7B05588069}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareTheTriplets", "CompareTheTriplets.csproj", "{6B4DB9F8-FD76-4383-B5C6-5C7B05588069}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
