@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace Compare.The.Triplets
 {
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
