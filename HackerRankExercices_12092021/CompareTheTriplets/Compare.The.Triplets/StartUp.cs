@@ -15,7 +15,7 @@ namespace Compare.The.Triplets
 
             List<int> b = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(bTemp => Convert.ToInt32(bTemp)).ToList();
 
-            List<int> result = Result.compareTriplets(a, b);
+            List<int> result = Result.CompareTriplets(a, b);
 
             textWriter.WriteLine(String.Join(" ", result));
 
@@ -36,7 +36,7 @@ namespace Compare.The.Triplets
          *  2. INTEGER_ARRAY b
          */
 
-        public static List<int> compareTriplets(List<int> a, List<int> b)
+        public static List<int> CompareTriplets(List<int> a, List<int> b)
         {
 
         }
