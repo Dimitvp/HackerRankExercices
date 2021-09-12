@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Interviews\\Exercices\\HackerRankExercices\\HakerRankProblems12092021\\CompareTheTriplets.csproj",
-      "projectName": "CompareTheTriplets",
-      "projectPath": "E:\\Interviews\\Exercices\\HackerRankExercices\\HakerRankProblems12092021\\CompareTheTriplets.csproj",
+      "projectUniqueName": "E:\\Interviews\\Exercices\\HackerRankExercices\\HackerRankExercices_12092021\\CompareTheTriplets\\Compare.The.Triplets\\Compare.The.Triplets.csproj",
+      "projectName": "Compare.The.Triplets",
+      "projectPath": "E:\\Interviews\\Exercices\\HackerRankExercices\\HackerRankExercices_12092021\\CompareTheTriplets\\Compare.The.Triplets\\Compare.The.Triplets.csproj",
       "packagesPath": "C:\\Users\\Dimit\\.nuget\\packages\\",
-      "outputPath": "E:\\Interviews\\Exercices\\HackerRankExercices\\HakerRankProblems12092021\\obj\\",
+      "outputPath": "E:\\Interviews\\Exercices\\HackerRankExercices\\HackerRankExercices_12092021\\CompareTheTriplets\\Compare.The.Triplets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
