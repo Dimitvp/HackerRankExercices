@@ -9,11 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CompareTheTriplets", "Compa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AVeryBigSum", "AVeryBigSum", "{2D855A68-88E7-4343-89B5-7B2F6D994E35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVeryBigSum", "AVeryBigSum\AVeryBigSum\AVeryBigSum.csproj", "{4F6306A2-F7C3-4AC6-97FA-722483FF0FE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVeryBigSum", "AVeryBigSum\AVeryBigSum\AVeryBigSum.csproj", "{4F6306A2-F7C3-4AC6-97FA-722483FF0FE9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DiagonalDifference", "DiagonalDifference", "{47B75A10-D10D-4F42-AE17-564D8EF4DF0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference\DiagonalDifference.csproj", "{EBD0767E-F718-4850-B030-6D280853BD5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference\DiagonalDifference.csproj", "{EBD0767E-F718-4850-B030-6D280853BD5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PlusMinus", "PlusMinus", "{A2F4AB02-1B14-4B3A-8DC4-F9B520649C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus\PlusMinus.csproj", "{2B0D6C48-17FD-47FE-B308-1FA62F1129B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,10 @@ Global
 		{EBD0767E-F718-4850-B030-6D280853BD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBD0767E-F718-4850-B030-6D280853BD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBD0767E-F718-4850-B030-6D280853BD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0D6C48-17FD-47FE-B308-1FA62F1129B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0D6C48-17FD-47FE-B308-1FA62F1129B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0D6C48-17FD-47FE-B308-1FA62F1129B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0D6C48-17FD-47FE-B308-1FA62F1129B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{D4DC3D7F-BB94-4557-AF84-81BCB52E8F0F} = {CF1C9406-51AB-47E3-B8C2-7B24C5FF3FE4}
 		{4F6306A2-F7C3-4AC6-97FA-722483FF0FE9} = {2D855A68-88E7-4343-89B5-7B2F6D994E35}
 		{EBD0767E-F718-4850-B030-6D280853BD5D} = {47B75A10-D10D-4F42-AE17-564D8EF4DF0A}
+		{2B0D6C48-17FD-47FE-B308-1FA62F1129B8} = {A2F4AB02-1B14-4B3A-8DC4-F9B520649C73}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0AB379D5-E8E0-4D3F-9F1F-961B58F2AD16}
