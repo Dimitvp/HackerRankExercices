@@ -10,3 +10,5 @@ E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\AVeryBi
 E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\AVeryBigSum\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.dll
 E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\AVeryBigSum\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.pdb
 E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\AVeryBigSum\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.genruntimeconfig.cache
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\AVeryBigSum\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.csproj.AssemblyReference.cache
+E:\Interviews\Exercices\HackerRankExercices\HackerRankExercices_12092021\AVeryBigSum\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.GeneratedMSBuildEditorConfig.editorconfig

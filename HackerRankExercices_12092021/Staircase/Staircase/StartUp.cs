@@ -8,7 +8,7 @@ namespace Staircase
         {
             int n = Convert.ToInt32(Console.ReadLine().Trim());
 
-            Result.staircase(n);
+            Result.Staircase(n);
         }
     }
 
@@ -21,9 +21,14 @@ namespace Staircase
          * The function accepts INTEGER n as parameter.
          */
 
-        public static void staircase(int n)
+        public static void Staircase(int n)
         {
+            char staircaseMaterial = '#';
 
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine(new String(staircaseMaterial, i + 1).PadLeft(n, ' '));
+            }
         }
 
     }
