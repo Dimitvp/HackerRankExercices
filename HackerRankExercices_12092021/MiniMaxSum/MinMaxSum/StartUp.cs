@@ -24,7 +24,7 @@ namespace MinMaxSum
 
         public static void miniMaxSum(int[] arr)
         {
-            //Solution 1 Time complexity: O(N)
+            //Solution 1 with Time complexity: O(N)
             long minElement = 0, maxElement = 0, sum = 0;
 
             minElement = arr[0];
