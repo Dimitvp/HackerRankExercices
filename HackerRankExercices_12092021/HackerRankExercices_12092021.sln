@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31424.327
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compare.The.Triplets", "CompareTheTriplets\Compare.The.Triplets\Compare.The.Triplets.csproj", "{D4DC3D7F-BB94-4557-AF84-81BCB52E8F0F}"
 EndProject
@@ -17,11 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "Diago
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PlusMinus", "PlusMinus", "{A2F4AB02-1B14-4B3A-8DC4-F9B520649C73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus\PlusMinus.csproj", "{2B0D6C48-17FD-47FE-B308-1FA62F1129B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "PlusMinus\PlusMinus\PlusMinus.csproj", "{2B0D6C48-17FD-47FE-B308-1FA62F1129B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Staircase", "Staircase", "{8C9BC204-C126-48EC-ACBF-60CE3D8E715D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase\Staircase.csproj", "{6C0738D6-5BCE-4682-9610-4458C04567EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Staircase\Staircase.csproj", "{6C0738D6-5BCE-4682-9610-4458C04567EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxSum", "MiniMaxSum\MinMaxSum\MinMaxSum.csproj", "{6A5A2003-2B9D-45AE-ACD1-BEDE8A58B46F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,10 @@ Global
 		{6C0738D6-5BCE-4682-9610-4458C04567EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C0738D6-5BCE-4682-9610-4458C04567EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C0738D6-5BCE-4682-9610-4458C04567EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5A2003-2B9D-45AE-ACD1-BEDE8A58B46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5A2003-2B9D-45AE-ACD1-BEDE8A58B46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5A2003-2B9D-45AE-ACD1-BEDE8A58B46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5A2003-2B9D-45AE-ACD1-BEDE8A58B46F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
