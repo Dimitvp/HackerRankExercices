@@ -9,7 +9,7 @@ namespace MinMaxSum
         {
             int[] arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToArray();
 
-            Result.miniMaxSum(arr);
+            Result.MiniMaxSum(arr);
         }
     }
 
@@ -22,7 +22,7 @@ namespace MinMaxSum
          * The function accepts INTEGER_ARRAY arr as parameter.
          */
 
-        public static void miniMaxSum(int[] arr)
+        public static void MiniMaxSum(int[] arr)
         {
             //Solution 1 with Time complexity: O(N)
             long minElement = 0, maxElement = 0, sum = 0;
